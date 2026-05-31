@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1510544695611232359",
+    "channel_id": "1508715848616116336",
+    "channel_name": "welcome",
+    "channel_type": "text",
+    "parent_id": "1508734028625481840",
+    "parent_name": "全体的なチャンネル",
+    "author_id": "829224347029733397",
+    "author_name": "101ta28",
+    "content": "",
+    "attachments": [],
+    "reactions": [],
+    "created_at": "2026-05-31T16:25:19.997000+09:00",
+    "updated_at": "2026-05-31T16:25:19.997000+09:00"
+  },
+  {
+    "id": "1510590206145724416",
+    "channel_id": "1508715848616116336",
+    "channel_name": "welcome",
+    "channel_type": "text",
+    "parent_id": "1508734028625481840",
+    "parent_name": "全体的なチャンネル",
+    "author_id": "1510495322680463480",
+    "author_name": "ddbbot",
+    "content": "",
+    "attachments": [],
+    "reactions": [],
+    "created_at": "2026-05-31T19:26:10.554000+09:00",
+    "updated_at": "2026-05-31T19:26:10.554000+09:00"
+  }
+]
