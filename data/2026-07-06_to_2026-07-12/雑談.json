@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1523562681137631243",
+    "channel_id": "1508733638961922189",
+    "channel_name": "雑談",
+    "channel_type": "text",
+    "parent_id": "1508734028625481840",
+    "parent_name": "全体的なチャンネル",
+    "author_id": "1413302533819994263",
+    "author_name": "Shingo OHKI",
+    "content": "ようやく入れました",
+    "attachments": [],
+    "reactions": [
+      {
+        "emoji": "🥰",
+        "count": 2
+      },
+      {
+        "emoji": "👏",
+        "count": 2
+      }
+    ],
+    "created_at": "2026-07-06T14:34:09.609000+09:00",
+    "updated_at": "2026-07-06T14:34:09.609000+09:00"
+  }
+]
