@@ -43,5 +43,35 @@
     "reactions": [],
     "created_at": "2026-07-25T18:49:38.457000+09:00",
     "updated_at": "2026-07-25T18:49:38.457000+09:00"
+  },
+  {
+    "id": "1530817777777119292",
+    "channel_id": "1530511616972554301",
+    "channel_name": "プロダクトセットアップチャレンジDAY",
+    "channel_type": "thread",
+    "parent_id": "1508726320148910210",
+    "parent_name": "コミュニティ運営_総合",
+    "author_id": "868542994352054282",
+    "author_name": "moai_s.ono",
+    "content": "<@792004404172685332>",
+    "attachments": [],
+    "reactions": [],
+    "created_at": "2026-07-26T15:03:19.441000+09:00",
+    "updated_at": "2026-07-26T15:03:19.441000+09:00"
+  },
+  {
+    "id": "1530817816507187303",
+    "channel_id": "1530511616972554301",
+    "channel_name": "プロダクトセットアップチャレンジDAY",
+    "channel_type": "thread",
+    "parent_id": "1508726320148910210",
+    "parent_name": "コミュニティ運営_総合",
+    "author_id": "868542994352054282",
+    "author_name": "moai_s.ono",
+    "content": "（メンションできてなかった）",
+    "attachments": [],
+    "reactions": [],
+    "created_at": "2026-07-26T15:03:28.675000+09:00",
+    "updated_at": "2026-07-26T15:03:28.675000+09:00"
   }
 ]
