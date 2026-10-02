@@ -1,0 +1,17 @@
+[
+  {
+    "id": "1555468942733090856",
+    "channel_id": "1555467434247327796",
+    "channel_name": "ガイドブック",
+    "channel_type": "text",
+    "parent_id": "1508734028625481840",
+    "parent_name": "全体的なチャンネル",
+    "author_id": "868542994352054282",
+    "author_name": "moai_s.ono",
+    "content": "デジタル民主主義2030に興味を持って参加してくれた方が、スムーズに活動に加わるための手引きです。\nhttps://dd2030.org/guide-book/\n\nコントリビュートはこちらのレポジトリから\nhttps://github.com/digitaldemocracy2030/website/tree/main/src/guide-book\nもしくは\nhttps://discord.com/channels/1508715847877791764/1508726320148910210\nへご投稿ください。",
+    "attachments": [],
+    "reactions": [],
+    "created_at": "2026-10-02T15:38:15.163000+09:00",
+    "updated_at": "2026-10-02T15:38:15.163000+09:00"
+  }
+]
