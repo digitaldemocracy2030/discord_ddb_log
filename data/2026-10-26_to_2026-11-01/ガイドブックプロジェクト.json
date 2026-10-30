@@ -1,0 +1,47 @@
+[
+  {
+    "id": "1565636794156847165",
+    "channel_id": "1508734352832467014",
+    "channel_name": "ガイドブックプロジェクト",
+    "channel_type": "text",
+    "parent_id": "1508722781435596890",
+    "parent_name": "コミュニティ運営",
+    "author_id": "868542994352054282",
+    "author_name": "moai_s.ono",
+    "content": "アップデート\n- 略称を正式名称に修正\n- ガイドブックとサイトnavigationから📘の絵文字を削除\n- （太字）などの編集上の文字が残っていたのを修正",
+    "attachments": [],
+    "reactions": [],
+    "created_at": "2026-10-30T17:01:39.852000+09:00",
+    "updated_at": "2026-10-30T17:01:39.852000+09:00"
+  },
+  {
+    "id": "1565647677130022944",
+    "channel_id": "1508734352832467014",
+    "channel_name": "ガイドブックプロジェクト",
+    "channel_type": "text",
+    "parent_id": "1508722781435596890",
+    "parent_name": "コミュニティ運営",
+    "author_id": "868542994352054282",
+    "author_name": "moai_s.ono",
+    "content": "アップデート（大幅更新）\n- ガイドブック全体を想定読者に合わせて読みやすく修正\n修正内容や方針は下記に記載\nhttps://github.com/moai-redcap/dd2030website/blob/main/docs/guidebook_changes_summary.md",
+    "attachments": [],
+    "reactions": [],
+    "created_at": "2026-10-30T17:44:54.555000+09:00",
+    "updated_at": "2026-10-30T17:44:54.555000+09:00"
+  },
+  {
+    "id": "1565687633634660412",
+    "channel_id": "1508734352832467014",
+    "channel_name": "ガイドブックプロジェクト",
+    "channel_type": "text",
+    "parent_id": "1508722781435596890",
+    "parent_name": "コミュニティ運営",
+    "author_id": "868542994352054282",
+    "author_name": "moai_s.ono",
+    "content": "次回はこんな感じで変えていこうと思う\nhttps://github.com/digitaldemocracy2030/website/blob/main/docs/guidebook_improvement_plan.md",
+    "attachments": [],
+    "reactions": [],
+    "created_at": "2026-10-30T20:23:40.928000+09:00",
+    "updated_at": "2026-10-30T20:23:40.928000+09:00"
+  }
+]
